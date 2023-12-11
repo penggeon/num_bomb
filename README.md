@@ -12,15 +12,15 @@
 
 ## 3.1 顶层模块
 
-（1）数码管显示
+（1）数码管显示：
 
 ![image](https://github.com/polar-bei/num_bomb/assets/116292674/fe46b54d-05de-476c-8c31-7d6112e98353)
 
-（2） led 显示
+（2） led 显示：
 
 ![image](https://github.com/polar-bei/num_bomb/assets/116292674/fa2e2799-b141-4521-a6c2-f0f3cecaa388)
 
-（3）数字设置
+（3）数字设置：
 
 ![image](https://github.com/polar-bei/num_bomb/assets/116292674/af5a2ee3-d64a-4a8b-a88d-ea490eb55b31)
 

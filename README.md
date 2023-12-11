@@ -28,11 +28,11 @@
 
 利用标志位的设置，实现确认后流水灯以及 RGB 的控制（代码较多，暂不展示）
 
-（5）随机数生成
+（5）随机数生成：
 
 ![image](https://github.com/polar-bei/num_bomb/assets/116292674/e1f028b1-441c-41a9-9b6a-5ad9e2471878)
 
-（6）模块调用
+（6）模块调用：
 
 ![image](https://github.com/polar-bei/num_bomb/assets/116292674/2f3d809d-c69a-42ac-b868-c0c49417b1d2)
 
